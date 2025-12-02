@@ -13,7 +13,8 @@ files/classes:
 - Library.java (Handles file & list operations)
 - Book.java (Container class for storing book information)
 Furthermore, a file named “library_data.txt” can be added to the root folder of the project as the
-program to load pre-defined book data. Additionally, JPEG images can be added to the images
+program to load pre-defined book data. 
+Additionally, JPEG images can be added to the images
 sub-folder –can be created manually or is created automatically by the application– to display
 book covers.
 
