@@ -18,12 +18,6 @@ import java.util.ArrayList;
 
 public class LMS extends Application {
 
-    /*
-    * Notes For Grader:
-    * Professor Jayyousi gave me permission to use the Collection.forEach() method for handling operations.
-    * Please make sure the images are stored inside the root folder of the project.
-    * */
-
     // Pre-defined book data file
     private final File libraryData = new File("library_data.txt");
 
